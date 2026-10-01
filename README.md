@@ -1,16 +1,59 @@
-## Hi there 👋
+# Zero Wong
 
-<!--
-**zhaohuang321/zhaohuang321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 深入本质，一通百通。
 
-Here are some ideas to get you started:
+**AI × 思维框架 × 学习实践**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我正在把人物的思考方法整理成可调用的 AI Skills，也探索如何用这些工具帮助学习与决策。
+
+希望这里的每个项目，都能回答一个具体问题：**它能帮你把哪件事想清楚、做得更好？**
+
+---
+
+## 我在做的事
+
+### 人物思维 Skills · 给问题多一个观察角度
+
+从著作、案例和决策记录中提炼分析方法，再整理成可复用的 Skill。重点是怎样判断、怎样行动，以及方法在什么条件下会失效。
+
+**已公开：[章北海视角](https://github.com/zhaohuang321/zhang-beihai-perspective)**
+
+以《黑暗森林》中的章北海为研究对象，分析长期危机、战略备份、能力建设和行动时机。包含原著剧透，现实建议属于框架迁移。
+
+> 试着问：“用章北海视角，审视这个长期决策。”
+
+其他已整理、待陆续发布的视角包括：史强、托马斯·维德、毛泽东，以及基于邹华权书稿的深本思维框架。
+
+### 深本思维 · 从会做一题，走向理解一类问题
+
+我关注数学学习中的三个环节：**弄通情景 → 知识联想 → 顺逆推理**。
+
+从学生的实际作答出发，寻找读题、概念、推理和表达中具体的卡点；再通过解释依据、独立作答和变式练习，检验是否真正理解。
+
+这一方向参考邹华权《深本思维·数学的本质》书稿。这里分享的是方法整理与学习实践，不代表作者本人。
+
+### AI 实践 · 把一次尝试变成可复用的方法
+
+记录 Skill 的制作、验证与使用过程。让每次尝试留下可以复查的依据，也留下下一次能够改进的地方。
+
+---
+
+## 我重视的几件事
+
+**先看具体问题。** 分数、结果和标签只能说明一部分情况，先弄清发生了什么。
+
+**理解要能解释，方法要能迁移。** 能说清每一步为什么成立，再用新的情景检验。
+
+**保留证据，也保留局限。** 人物说过什么、实际做过什么、我们推断了什么，需要分开。
+
+**尊重来源。** 人物 Skills 的整理使用了[女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)流程；原始框架、资料与工具的贡献分别注明。
+
+---
+
+## 从这里开始
+
+- 想看一个完整的人物 Skill：[章北海视角](https://github.com/zhaohuang321/zhang-beihai-perspective)
+- 想了解陆续发布的项目：[查看我的仓库](https://github.com/zhaohuang321?tab=repositories)
+- 想交流使用体验或提出改进：[在章北海项目中提交 Issue](https://github.com/zhaohuang321/zhang-beihai-perspective/issues)
+
+欢迎带着一个具体问题来交流。
