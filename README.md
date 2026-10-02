@@ -25,13 +25,13 @@
 | [名臣与宰相思维](https://github.com/zhaohuang321/minister-thinking-skills) | 10 份 | 合作利益、持续供给、改革执行与证据判断 |
 | [先秦诸子百家](https://github.com/zhaohuang321/pre-qin-thinking-skills) | 11 份 | 学习成长、干预分寸、公共利害与行动条件 |
 
-**第一次使用，可以从这些视角开始：**
+**第一次使用，可以从四个专区各选一个视角：**
 
-[章北海 · 长期决策](https://github.com/zhaohuang321/zhang-beihai-perspective) · [史强 · 现场核查](https://github.com/zhaohuang321/shi-qiang-perspective) · [萧何 · 组织供给](https://github.com/zhaohuang321/xiao-he-perspective) · [荀子 · 学习成长](https://github.com/zhaohuang321/xunzi-perspective)
+[罗辑 · 三体：条件推演与可信承诺](https://github.com/zhaohuang321/luo-ji-perspective) · [汉武帝 · 帝皇：战略格局与资源动员](https://github.com/zhaohuang321/han-wudi-perspective) · [管仲 · 名臣：生计基础与联盟信誉](https://github.com/zhaohuang321/guan-zhong-perspective) · [孙子 · 先秦：行动条件与成本判断](https://github.com/zhaohuang321/sun-tzu-perspective)
 
-> 带上目标、事实和限制，试着问：“用章北海视角审视这个长期决策，再用史强视角检查我的事实依据。”
+> 带上目标、事实和限制，试着问：“分别用罗辑、汉武帝、管仲和孙子的视角分析这个决策，再比较他们的判断依据、行动建议和盲点。”
 
-进入人物仓库，下载 ZIP 完整包，按专区说明安装即可。把不同视角放在同一个问题上比较，看看结论为什么不同。
+进入人物仓库，下载 ZIP 完整包，按专区说明安装即可。可以先选一位分析具体问题，再用其他专区的视角作对照，看看结论为什么不同。
 
 **深本思维 · 从理解一题，走向理解一类问题**
 
@@ -66,4 +66,5 @@
 欢迎带着一个具体问题来交流，也欢迎指出资料或判断中的不足。
 
 人物 Skills 的整理流程参考[花叔的女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)，各项目分别注明资料来源与工具贡献。
+
 
